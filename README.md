@@ -46,9 +46,3 @@ Enter due date (YYYY-MM-DD): 2025-03-06
 Enter category: Shopping
 Task added successfully! Task ID: 4d95a740-8e38-4a77-b23a-7b162d8b9f6a
 ```
-
-## Contributing
-Feel free to contribute by submitting pull requests or reporting issues.
-
-## License
-This project is open-source and available under the MIT License.
