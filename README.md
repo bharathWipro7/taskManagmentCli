@@ -5,7 +5,7 @@ Task Management CLI is a simple command-line application for managing tasks. Use
 
 ## Features
 - **Add Task**: Users can add new tasks with a name, due date, and category.
-- **Remove Task**: Allows users to remove tasks by their ID.
+- **Flush Task**: Allows users to remove tasks by their ID.
 - **Flush All**: Deletes all tasks from the task list.
 - **List Tasks**: Displays all tasks in a neatly formatted table, sorted by due date (in descending order).
 - **Persistent Storage**: Tasks are saved in `tasks.json`, ensuring data is preserved between runs.
